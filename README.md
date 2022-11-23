@@ -12,9 +12,9 @@ A new Flutter project.
  ## Instruction to used the flutter code :
  
 ``` 
- git  clone https://github.com/yashvenrakumar/Assignment_wolkus.git
+ git  clone https://github.com/Kumar6174/Wolkus_Assignment.git
  
- cd Assignment_wolkus
+ cd Wolkus_Assignment
  
  code ...
  
