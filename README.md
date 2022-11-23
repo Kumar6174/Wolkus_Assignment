@@ -1,4 +1,4 @@
-# Wolkus-Assignment-WebApp
+# Wolkus-Assignment
 
 ## Getting Started
  
