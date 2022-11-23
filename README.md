@@ -6,7 +6,7 @@ A new Flutter project.
  
 
 - [Github Pages](https://github.com/Kumar6174/Wolkus_Assignment)
-- [Web app link](https://yashvenrakumar.github.io/#/home)
+- [Web app link](https://kumar6174.github.io/Wolkus-Assignment-WebApp/)
  
   
  ## Instruction to used the flutter code :
